@@ -1,0 +1,33 @@
+site_name: Proyecto Lamarr
+
+nav:
+  - Principal: index.md
+  - Primer Curso:
+    - Primer Cuatrimestre:
+      - FUNDAMENTOS DE FÍSICA I: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/index.md'
+      - ANÁLISIS MATEMÁTICO I: 'asignaturas/primer-curso/primer-cuatrimestre/analisis-matematico-1/index.md'
+      - ÁLGEBRA: 'asignaturas/primer-curso/primer-cuatrimestre/algebra/index.md'
+      - QUÍMICA: 'asignaturas/primer-curso/primer-cuatrimestre/quimica/index.md'
+      - BIOLOGÍA FÍSICA: 'asignaturas/primer-curso/primer-cuatrimestre/biologia-fisica/index.md'
+
+theme:
+  language: 'es'
+  name: 'material'
+  feature:
+    tabs: true
+  palette:
+    primary: 'cyan'
+    accent: 'cyan'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+extra_css:
+  - styles/custom.css
