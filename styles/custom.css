@@ -1,0 +1,8 @@
+.md-content__inner h1 {
+  color: rgb(0, 188, 212);
+  font-weight: 800;
+}
+
+.md-footer-copyright {
+  display: none;
+}
