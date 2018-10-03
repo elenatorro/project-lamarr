@@ -4,10 +4,40 @@ nav:
   - Principal: index.md
   - Primer Curso:
     - Primer Cuatrimestre:
-      - FUNDAMENTOS DE FÍSICA I: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/index.md'
-      - ANÁLISIS MATEMÁTICO I: 'asignaturas/primer-curso/primer-cuatrimestre/analisis-matematico-1/index.md'
-      - ÁLGEBRA: 'asignaturas/primer-curso/primer-cuatrimestre/algebra/index.md'
-      - QUÍMICA: 'asignaturas/primer-curso/primer-cuatrimestre/quimica/index.md'
+      - Principal: 'asignaturas/primer-curso/primer-cuatrimestre/index.md'
+      - FUNDAMENTOS DE FÍSICA I:
+        - Principal: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/index.md'
+        - Tema 1: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-1/index.md'
+        - Tema 2: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-2/index.md'
+        - Tema 3: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-3/index.md'
+        - Tema 4: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-4/index.md'
+        - Tema 5: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-5/index.md'
+        - Tema 6: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-6/index.md'
+        - Tema 7: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-7/index.md'
+        - Tema 8: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-8/index.md'
+        - Tema 9: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-9/index.md'
+        - Tema 10: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-10/index.md'
+        - Tema 11: 'asignaturas/primer-curso/primer-cuatrimestre/fundamentos-fisica-1/tema-11/index.md'
+      - ANÁLISIS MATEMÁTICO I:
+        - Principal: 'asignaturas/primer-curso/primer-cuatrimestre/analisis-matematico-1/index.md'
+        - Tema 1: 'asignaturas/primer-curso/primer-cuatrimestre/analisis-matematico-1/tema-1/index.md'
+        - Tema 2: 'asignaturas/primer-curso/primer-cuatrimestre/analisis-matematico-1/tema-2/index.md'
+        - Tema 3: 'asignaturas/primer-curso/primer-cuatrimestre/analisis-matematico-1/tema-3/index.md'
+        - Tema 4: 'asignaturas/primer-curso/primer-cuatrimestre/analisis-matematico-1/tema-4/index.md'
+      - ÁLGEBRA:
+        - Principal: 'asignaturas/primer-curso/primer-cuatrimestre/algebra/index.md'
+        - Tema 1: 'asignaturas/primer-curso/primer-cuatrimestre/algebra/tema-1/index.md'
+        - Tema 2: 'asignaturas/primer-curso/primer-cuatrimestre/algebra/tema-2/index.md'
+        - Tema 3: 'asignaturas/primer-curso/primer-cuatrimestre/algebra/tema-3/index.md'
+        - Tema 4: 'asignaturas/primer-curso/primer-cuatrimestre/algebra/tema-4/index.md'
+        - Tema 5: 'asignaturas/primer-curso/primer-cuatrimestre/algebra/tema-5/index.md'
+        - Tema 6: 'asignaturas/primer-curso/primer-cuatrimestre/algebra/tema-6/index.md'
+      - QUÍMICA:
+        - Principal: 'asignaturas/primer-curso/primer-cuatrimestre/quimica/index.md'
+        - Tema 1: 'asignaturas/primer-curso/primer-cuatrimestre/quimica/tema-1/index.md'
+        - Tema 2: 'asignaturas/primer-curso/primer-cuatrimestre/quimica/tema-2/index.md'
+        - Tema 3: 'asignaturas/primer-curso/primer-cuatrimestre/quimica/tema-3/index.md'
+        - Tema 4: 'asignaturas/primer-curso/primer-cuatrimestre/quimica/tema-4/index.md'
       - BIOLOGÍA FÍSICA: 'asignaturas/primer-curso/primer-cuatrimestre/biologia-fisica/index.md'
 
 theme:
