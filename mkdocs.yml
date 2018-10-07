@@ -54,10 +54,16 @@ theme:
 
 markdown_extensions:
   - admonition
+  - pymdownx.arithmatex
   - codehilite:
       guess_lang: false
   - toc:
       permalink: true
 
 extra_css:
-  - styles/custom.css
+  - assets/styles/custom.css
+
+extra_javascript:
+  - assets/scripts/mathjax/mathjax-config.js
+  - assets/scripts/mathjax/unpacked/MathJax.js?config=TeX-MML-AM_CHTML
+  # - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'

@@ -1,0 +1,27 @@
+{
+  "name": "project-lamarr",
+  "version": "0.1.0",
+  "description": "Apuntes Grado en Física por la UNED",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "mathjax": "^2.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update:mathjax": "npm install && cp -r node_modules/mathjax/unpacked docs/assets/scripts/mathjax && cp -r node_modules/mathjax/fonts docs/assets/scripts/mathjax/fonts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenatorro/project-lamarr.git"
+  },
+  "author": "Elena Torró <elenatorro@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenatorro/project-lamarr/issues"
+  },
+  "homepage": "https://github.com/elenatorro/project-lamarr#readme"
+}
